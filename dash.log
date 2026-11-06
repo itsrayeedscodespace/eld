@@ -7845,3 +7845,4 @@ Fri Nov  6 10:01:26 UTC 2026 -> Add data lock for linux-kernel riscv64 build sta
 Fri Nov  6 10:01:28 UTC 2026 -> Add linux-kernel riscv64 build status data in DB
 Fri Nov  6 10:32:35 UTC 2026 -> Add data lock for memory-with-origins-sanitizer all build status data to be written
 Fri Nov  6 10:32:37 UTC 2026 -> Add memory-with-origins-sanitizer all build status data in DB
+Fri Nov  6 10:47:57 AM UTC 2026 -> Add data lock for zephyr  build status data to be written
